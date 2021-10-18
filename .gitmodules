@@ -7,3 +7,6 @@
 [submodule "better-onetab"]
 	path = better-onetab
 	url = git@github.com:YeomanYe/better-onetab.git
+[submodule "cerebro"]
+	path = cerebro
+	url = git@github.com:YeomanYe/cerebro.git
