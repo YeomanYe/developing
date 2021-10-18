@@ -4,3 +4,6 @@
 [submodule "rmc"]
 	path = rmc
 	url = git@github.com:YeomanYe/rmc.git
+[submodule "better-onetab"]
+	path = better-onetab
+	url = git@github.com:YeomanYe/better-onetab.git
