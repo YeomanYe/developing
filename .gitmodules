@@ -1,0 +1,6 @@
+[submodule "NooBoss"]
+	path = NooBoss
+	url = git@github.com:YeomanYe/NooBoss.git
+[submodule "rmc"]
+	path = rmc
+	url = git@github.com:YeomanYe/rmc.git
