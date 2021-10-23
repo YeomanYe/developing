@@ -10,3 +10,9 @@
 [submodule "cerebro"]
 	path = cerebro
 	url = git@github.com:YeomanYe/cerebro.git
+[submodule "es6-string-shell"]
+	path = es6-string-shell
+	url = git@github.com:YeomanYe/es6-string-javascript.git
+[submodule "file-name-linter"]
+	path = file-name-linter
+	url = git@gitlab.com:YeomanYe/file-name-linter.git
