@@ -18,4 +18,4 @@
 	url = git@gitlab.com:YeomanYe/file-name-linter.git
 [submodule "vscode-path-alias"]
 	path = vscode-path-alias
-	url = git@github.com:YeomanYe/vscode-path-alias.git
+	url = http://github.com.cnpmjs.org/YeomanYe/vscode-path-alias.git
