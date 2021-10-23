@@ -16,3 +16,6 @@
 [submodule "file-name-linter"]
 	path = file-name-linter
 	url = git@gitlab.com:YeomanYe/file-name-linter.git
+[submodule "vscode-path-alias"]
+	path = vscode-path-alias
+	url = git@github.com:YeomanYe/vscode-path-alias.git
