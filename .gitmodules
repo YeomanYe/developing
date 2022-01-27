@@ -19,3 +19,6 @@
 [submodule "vscode-path-alias"]
 	path = vscode-path-alias
 	url = git@github.com:YeomanYe/vscode-path-alias.git
+[submodule "ext-saladict"]
+	path = ext-saladict
+	url = git@github.com:YeomanYe/ext-saladict.git
